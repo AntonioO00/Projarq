@@ -1,3 +1,5 @@
+package projeto1a;
+
 public class Professor {
     private String nome;
     private int anosExperiencia;

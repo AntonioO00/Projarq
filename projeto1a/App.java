@@ -1,3 +1,4 @@
+package projeto1a;
 import java.util.Scanner;
 
 public class App {
